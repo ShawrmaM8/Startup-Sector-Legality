@@ -11,10 +11,10 @@ Using the power of Generative AI, this project was developed in an hour or two w
 
 Prompt:
 
-Give me one project on nlp classification and map out its structure and how it'd work. Also keep it as lean as possible, completely free and we could use streamlit for the UI
+Map out mini project #2 and I think we ought to replace the rule-based matching eventually but for now let's proceed. Qatari context, use all the law data and in regards to all these sectors once the sector is determined from Project 1:
+SECTORS = ["EdTech", "FinTech", "HealthTech", "ECommerce", "AgriTech", "CleanTech", "PropTech", "LegalTech", "GovTech", "Media & Entertainment", "Gaming", "Cybersecurity", "AI & Data Science", "Robotics", "Manufacturing & Industry 4.0", "Energy & Utilities", "Transportation & Mobility", "Food & Beverage", "Retail", "Travel & Hospitality", "Logistics & Supply Chain", "Biotech & Pharma", "Consumer Electronics", "Social Impact / Non-Profit", "Other"]
 
 Grok:
-https://grok.com/share/c2hhcmQtMw%3D%3D_03095fbd-ce52-42c9-bc8d-5540e5fd8a57
+https://grok.com/share/c2hhcmQtMw%3D%3D_d83a21a5-9321-41a2-8f4e-e92282a7447c
 
-
-(Grok's reply was specifically tailored to me based on our past projects and conversations)
+(Grok's reply was specifically tailored to me based on our past projects and conversations, and of course we refined the project with more prompts later)
