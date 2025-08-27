@@ -29,8 +29,8 @@ def main():
             
             # Check compliance
             result = check_compliance(selected_sector)
-            st.success(f"Legality Score: **{result['score']}/100**")
-            st.write(f"Notes: {result['notes']}")
+            st.success(f"Legal Viability Score: **{result['score']}/100**")
+            st.subheader(f"Notes: \n {result['notes']}")
         else:
             st.error("Please enter a business idea or select a sector.")
     
@@ -41,4 +41,5 @@ def main():
         st.success("Classifier trained!")
 
 if __name__ == "__main__":
+
     main()
