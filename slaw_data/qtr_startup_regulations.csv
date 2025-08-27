@@ -1,0 +1,201 @@
+sector,license_required,license_type,max%_foreign_ownership,restrictions
+EdTech,Yes,MoEHE approval for education services,100,Content must comply with national cultural and religious values
+FinTech,Yes,QCB / QFCRA license,49,Foreign investors need a local Qatari partner outside QFC/Free Zones
+HealthTech,Yes,MOPH approval,49,Clinical trials and health data storage restricted in-country
+ECommerce,Yes,MoCI E-Commerce License,100,Consumer protection and cybercrime compliance required
+AgriTech,No,,100,Land ownership restricted; Qatari partnership required for farms
+CleanTech,No,,100,Environmental permits required for certain activities
+PropTech,Yes,MoCI Real Estate License,49,Foreign ownership of property restricted except in designated areas
+LegalTech,Yes,MoJ approval,49,Legal advice restricted to licensed law firms
+GovTech,Yes,Government partnership/contract,0,Only via government collaboration; no direct market entry
+Media & Entertainment,Yes,MCYS content license,49,Strict censorship & cultural compliance
+Gaming,Yes,MCYS content license,49,No gambling; content must align with Islamic values
+Cybersecurity,Yes,Q-CERT / MoCI license,49,Critical infrastructure work requires local approval
+AI & Data Science,No,,100,Sensitive data must be stored in Qatar; privacy laws apply
+Robotics,No,,100,Customs restrictions on drones/AI-powered surveillance
+Manufacturing & Industry 4.0,Yes,MoCI Industrial License,100,Environmental & worker safety permits needed
+Energy & Utilities,Yes,MoE / Kahramaa license,0,Foreign ownership prohibited; only partnerships/joint ventures
+Transportation & Mobility,Yes,MoTC license,49,Local driver/vehicle ownership restrictions
+Food & Beverage,Yes,MoPH & MoCI license,49,Halal certification required
+Retail,Yes,MoCI license,49,Local agent or distributor required for foreign brands
+Travel & Hospitality,Yes,QTA license,49,Local sponsorship required for hotels & travel agencies
+Logistics & Supply Chain,Yes,QFZA or MoTC license,49,Customs clearance requires Qatari agent
+Biotech & Pharma,Yes,MOPH & QFZA license,49,Import/export of pharmaceuticals tightly controlled
+Consumer Electronics,Yes,CRA approval for imports,49,Product certification required; customs restrictions
+Social Impact / Non-Profit,Yes,MoCI / Charity Law approval,0,NGOs require government approval; foreign NGOs restricted
+Other,Depends,Case-by-case,49,Must comply with general commercial law
+EdTech (Online Tutoring),Yes,MoEHE e-learning approval,100,Content must align with Qatar’s educational standards
+FinTech (Blockchain Payments),Yes,QCB blockchain license,49,Must comply with anti-money laundering regulations
+HealthTech (Telemedicine),Yes,MOPH telemedicine license,49,Patient data must remain in Qatar
+ECommerce (Marketplaces),Yes,MoCI online marketplace license,100,Must integrate with Qatar’s payment gateway
+AgriTech (Precision Farming),No,,100,Water usage permits required for irrigation tech
+CleanTech (Solar Energy),Yes,MoE environmental permit,100,Must meet Qatar’s renewable energy standards
+PropTech (Property Management),Yes,MoCI property management license,49,Foreign ownership limited to specific zones
+LegalTech (Contract Automation),Yes,MoJ legal software approval,49,Must adhere to Qatar’s legal framework
+GovTech (E-Governance),Yes,MoCIT partnership,0,Requires direct government contract
+Media & Entertainment (Streaming),Yes,MCYS streaming license,49,Content subject to censorship board review
+Gaming (Mobile Games),Yes,MCYS mobile game license,49,No violent or culturally insensitive content
+Cybersecurity (Network Security),Yes,Q-CERT network security license,49,Approval needed for government contracts
+AI & Data Science (Analytics),No,,100,Data localization laws apply for sensitive sectors
+Robotics (Industrial Automation),No,,100,Must comply with import regulations for robotics
+Manufacturing & Industry 4.0 (Smart Factories),Yes,MoCI manufacturing license,100,Environmental impact assessment required
+Energy & Utilities (Renewables),Yes,Kahramaa renewable energy license,0,Joint ventures with state-owned entities only
+Transportation & Mobility (Ride-Sharing),Yes,MoTC transport license,49,Local drivers and vehicles required
+Food & Beverage (Restaurants),Yes,MoPH food safety license,49,Halal compliance mandatory
+Retail (Fashion),Yes,MoCI retail license,49,Local distributor required for foreign brands
+Travel & Hospitality (Tours),Yes,QTA tour operator license,49,Local sponsorship mandatory
+Logistics & Supply Chain (Freight),Yes,QFZA freight license,49,Qatari agent for customs clearance
+Biotech & Pharma (Diagnostics),Yes,MOPH diagnostics license,49,Clinical trials require local approval
+Consumer Electronics (Wearables),Yes,CRA wearable device approval,49,Import certification mandatory
+Social Impact / Non-Profit (Education),Yes,MoCI charity license,0,Government oversight for educational NGOs
+Other (Virtual Events),Depends,MoCI event license,49,Compliance with general commercial regulations
+EdTech (Virtual Labs),Yes,MoEHE virtual lab approval,100,Lab content must align with curriculum
+FinTech (Digital Wallets),Yes,QCB digital payment license,49,Integration with national payment gateway
+HealthTech (Wearables),Yes,MOPH wearable device approval,49,Health data must be stored locally
+ECommerce (Subscription Boxes),Yes,MoCI subscription license,100,Consumer protection laws apply
+AgriTech (Drones),No,,100,Drone operations require CAA approval
+CleanTech (Waste Management),Yes,MoE waste permit,100,Compliance with recycling regulations
+PropTech (Real Estate Portals),Yes,MoCI real estate portal license,49,Limited to designated property zones
+LegalTech (E-Discovery),Yes,MoJ e-discovery approval,49,Must comply with Qatar’s legal standards
+GovTech (Smart Cities),Yes,MoCIT smart city contract,0,Government-led projects only
+Media & Entertainment (Podcasts),Yes,MCYS podcast license,49,Content must pass cultural review
+Gaming (Esports),Yes,MCYS esports license,49,No betting or gambling elements allowed
+Cybersecurity (Threat Detection),Yes,Q-CERT threat detection license,49,Government approval for critical systems
+AI & Data Science (Machine Learning),No,,100,Data privacy compliance required
+Robotics (Service Robots),No,,100,Import restrictions on surveillance robots
+Manufacturing & Industry 4.0 (3D Printing),Yes,MoCI 3D printing license,100,Environmental permits for materials
+Energy & Utilities (Smart Grids),Yes,Kahramaa smart grid license,0,State-controlled partnerships only
+Transportation & Mobility (Drones),Yes,MoTC drone license,49,Local operator certification required
+Food & Beverage (Cafes),Yes,MoPH cafe license,49,Halal certification mandatory
+Retail (Electronics),Yes,MoCI electronics retail license,49,Local agent for foreign brands
+Travel & Hospitality (Hotels),Yes,QTA hotel license,49,Local sponsorship required
+Logistics & Supply Chain (Warehousing),Yes,QFZA warehousing license,49,Qatari agent for customs
+Biotech & Pharma (Vaccines),Yes,MOPH vaccine license,49,Local clinical trial requirements
+Consumer Electronics (Smart Home),Yes,CRA smart home device approval,49,Product safety certification needed
+Social Impact / Non-Profit (Health),Yes,MoCI health charity license,0,Strict government oversight
+Other (AI Chatbots),Depends,MoCI AI service license,49,General commercial law compliance
+EdTech (Coding Bootcamps),Yes,MoEHE coding program approval,100,Must align with national education goals
+FinTech (Crowdfunding),Yes,QCB crowdfunding license,49,Anti-money laundering compliance required
+HealthTech (Diagnostics Apps),Yes,MOPH diagnostics app approval,49,Data localization mandatory
+ECommerce (B2B Marketplaces),Yes,MoCI B2B license,100,Consumer protection laws apply
+AgriTech (Hydroponics),No,,100,Water usage permits needed
+CleanTech (Carbon Capture),Yes,MoE carbon capture permit,100,Environmental compliance mandatory
+PropTech (Smart Buildings),Yes,MoCI smart building license,49,Foreign ownership limited to free zones
+LegalTech (Compliance Tools),Yes,MoJ compliance tool approval,49,Adherence to Qatar’s legal framework
+GovTech (Public Safety),Yes,MoI partnership,0,Government contracts required
+Media & Entertainment (Live Events),Yes,MCYS event license,49,Cultural and religious compliance
+Gaming (Educational Games),Yes,MCYS educational game license,49,Content must align with values
+Cybersecurity (Encryption),Yes,Q-CERT encryption license,49,Approval for sensitive sectors
+AI & Data Science (Predictive Analytics),No,,100,Data privacy laws enforced
+Robotics (Medical Robots),No,,100,Import and safety certifications needed
+Manufacturing & Industry 4.0 (IoT),Yes,MoCI IoT license,100,Environmental and safety permits
+Energy & Utilities (Wind Energy),Yes,Kahramaa wind energy license,0,Joint ventures with state entities
+Transportation & Mobility (Electric Vehicles),Yes,MoTC EV license,49,Local vehicle certification required
+Food & Beverage (Food Trucks),Yes,MoPH food truck license,49,Halal compliance mandatory
+Retail (Luxury Goods),Yes,MoCI luxury retail license,49,Local distributor required
+Travel & Hospitality (Travel Apps),Yes,QTA travel app license,49,Local sponsorship needed
+Logistics & Supply Chain (Cold Chain),Yes,QFZA cold chain license,49,Qatari agent for customs
+Biotech & Pharma (Gene Therapy),Yes,MOPH gene therapy license,49,Local trial requirements
+Consumer Electronics (Drones),Yes,CRA drone approval,49,Import and usage restrictions
+Social Impact / Non-Profit (Environment),Yes,MoCI environmental charity license,0,Government approval required
+Other (Virtual Reality),Depends,MoCI VR service license,49,General commercial compliance
+EdTech (Language Learning),Yes,MoEHE language program approval,100,Content must meet cultural standards
+FinTech (InsurTech),Yes,QCB insurance license,49,Local partner required outside QFC
+HealthTech (Mental Health Apps),Yes,MOPH mental health approval,49,Data privacy and localization
+ECommerce (Fashion Retail),Yes,MoCI fashion retail license,100,Consumer protection compliance
+AgriTech (Smart Irrigation),No,,100,Water authority permits required
+CleanTech (Energy Efficiency),Yes,MoE efficiency permit,100,Environmental standards compliance
+PropTech (Rental Platforms),Yes,MoCI rental platform license,49,Limited to designated zones
+LegalTech (Document Automation),Yes,MoJ document tool approval,49,Must follow legal standards
+GovTech (Tax Systems),Yes,MoF partnership,0,Government-led projects only
+Media & Entertainment (Music Streaming),Yes,MCYS music license,49,Content censorship required
+Gaming (AR Games),Yes,MCYS AR game license,49,No culturally offensive content
+Cybersecurity (Cloud Security),Yes,Q-CERT cloud security license,49,Government approval for critical systems
+AI & Data Science (Data Visualization),No,,100,Data localization for sensitive sectors
+Robotics (Agricultural Robots),No,,100,Import restrictions on drones
+Manufacturing & Industry 4.0 (Automation),Yes,MoCI automation license,100,Safety and environmental permits
+Energy & Utilities (Solar Farms),Yes,Kahramaa solar farm license,0,State partnerships required
+Transportation & Mobility (Autonomous Vehicles),Yes,MoTC autonomous vehicle license,49,Local operator certification
+Food & Beverage (Bakeries),Yes,MoPH bakery license,49,Halal certification required
+Retail (Grocery),Yes,MoCI grocery retail license,49,Local agent for foreign brands
+Travel & Hospitality (Resorts),Yes,QTA resort license,49,Local sponsorship mandatory
+Logistics & Supply Chain (Last-Mile Delivery),Yes,QFZA delivery license,49,Qatari agent for customs
+Biotech & Pharma (Medical Devices),Yes,MOPH device license,49,Local testing requirements
+Consumer Electronics (Smart Appliances),Yes,CRA appliance approval,49,Product safety certification
+Social Impact / Non-Profit (Women Empowerment),Yes,MoCI empowerment charity license,0,Government oversight required
+Other (Augmented Reality),Depends,MoCI AR service license,49,General commercial compliance
+EdTech (STEM Platforms),Yes,MoEHE STEM approval,100,Alignment with national curriculum
+FinTech (Payment Gateways),Yes,QCB payment gateway license,49,Anti-money laundering compliance
+HealthTech (Fitness Trackers),Yes,MOPH fitness device approval,49,Data localization mandatory
+ECommerce (Home Goods),Yes,MoCI home goods license,100,Consumer protection laws apply
+AgriTech (Livestock Monitoring),No,,100,Permits for IoT device usage
+CleanTech (Recycling Tech),Yes,MoE recycling permit,100,Environmental compliance required
+PropTech (Real Estate Analytics),Yes,MoCI analytics license,49,Limited to free zones
+LegalTech (Case Management),Yes,MoJ case management approval,49,Legal framework compliance
+GovTech (Citizen Services),Yes,MoCIT citizen service contract,0,Government contracts only
+Media & Entertainment (TV Streaming),Yes,MCYS TV license,49,Content subject to censorship
+Gaming (VR Games),Yes,MCYS VR game license,49,No violent or gambling content
+Cybersecurity (Data Protection),Yes,Q-CERT data protection license,49,Approval for sensitive sectors
+AI & Data Science (Fraud Detection),No,,100,Data privacy compliance mandatory
+Robotics (Educational Robots),No,,100,Import and safety certifications
+Manufacturing & Industry 4.0 (Smart Sensors),Yes,MoCI sensor license,100,Environmental permits required
+Energy & Utilities (Energy Storage),Yes,Kahramaa storage license,0,State-led joint ventures
+Transportation & Mobility (Bike Sharing),Yes,MoTC bike-sharing license,49,Local operator requirements
+Food & Beverage (Catering),Yes,MoPH catering license,49,Halal compliance mandatory
+Retail (Cosmetics),Yes,MoCI cosmetics retail license,49,Local distributor required
+Travel & Hospitality (Event Planning),Yes,QTA event planning license,49,Local sponsorship needed
+Logistics & Supply Chain (Port Operations),Yes,QFZA port license,49,Qatari agent for customs
+Biotech & Pharma (Clinical Trials),Yes,MOPH trial license,49,Local approval mandatory
+Consumer Electronics (Gaming Consoles),Yes,CRA console approval,49,Import certification required
+Social Impact / Non-Profit (Youth Programs),Yes,MoCI youth charity license,0,Government oversight mandatory
+Other (Blockchain Services),Depends,MoCI blockchain license,49,General commercial compliance
+EdTech (Virtual Classrooms),Yes,MoEHE virtual classroom approval,100,Content must align with values
+FinTech (Wealth Management),Yes,QCB wealth management license,49,Local partner outside QFC
+HealthTech (Remote Monitoring),Yes,MOPH remote monitoring approval,49,Data localization required
+ECommerce (Electronics Retail),Yes,MoCI electronics retail license,100,Consumer protection compliance
+AgriTech (Soil Analysis),No,,100,Permits for chemical usage
+CleanTech (Green Buildings),Yes,MoE green building permit,100,Environmental standards compliance
+PropTech (Property Crowdfunding),Yes,MoCI crowdfunding license,49,Limited to designated zones
+LegalTech (IP Management),Yes,MoJ IP tool approval,49,Compliance with IP laws
+GovTech (E-Voting),Yes,MoI e-voting contract,0,Government-led projects only
+Media & Entertainment (Radio Streaming),Yes,MCYS radio license,49,Content censorship required
+Gaming (Simulation Games),Yes,MCYS simulation game license,49,No culturally insensitive content
+Cybersecurity (Penetration Testing),Yes,Q-CERT penetration testing license,49,Approval for critical systems
+AI & Data Science (Customer Insights),No,,100,Data privacy laws enforced
+Robotics (Delivery Robots),No,,100,Import restrictions on autonomous robots
+Manufacturing & Industry 4.0 (Robotic Automation),Yes,MoCI robotics license,100,Safety and environmental permits
+Energy & Utilities (Hydro Energy),Yes,Kahramaa hydro license,0,State partnerships required
+Transportation & Mobility (Smart Parking),Yes,MoTC parking license,49,Local operator certification
+Food & Beverage (Juice Bars),Yes,MoPH juice bar license,49,Halal certification mandatory
+Retail (Jewelry),Yes,MoCI jewelry retail license,49,Local agent for foreign brands
+Travel & Hospitality (Cruise Tours),Yes,QTA cruise license,49,Local sponsorship mandatory
+Logistics & Supply Chain (Supply Chain Analytics),Yes,QFZA analytics license,49,Qatari agent for customs
+Biotech & Pharma (Drug Development),Yes,MOPH drug development license,49,Local trial requirements
+Consumer Electronics (Smart TVs),Yes,CRA smart TV approval,49,Product safety certification
+Social Impact / Non-Profit (Disaster Relief),Yes,MoCI relief charity license,0,Government approval required
+Other (IoT Services),Depends,MoCI IoT service license,49,General commercial compliance
+EdTech (Teacher Training),Yes,MoEHE training approval,100,Alignment with national standards
+FinTech (RegTech),Yes,QCB regulatory license,49,Local partner required outside QFC
+HealthTech (Surgical Tech),Yes,MOPH surgical tech approval,49,Data and trial localization
+ECommerce (Food Delivery),Yes,MoCI food delivery license,100,Consumer protection laws apply
+AgriTech (Vertical Farming),No,,100,Water and land use permits needed
+CleanTech (Air Purification),Yes,MoE air purification permit,100,Environmental compliance mandatory
+PropTech (Smart Locks),Yes,MoCI smart lock license,49,Limited to free zones
+LegalTech (Legal Research),Yes,MoJ research tool approval,49,Legal framework compliance
+GovTech (Public Finance),Yes,MoF finance contract,0,Government contracts only
+Media & Entertainment (Animation),Yes,MCYS animation license,49,Content subject to censorship
+Gaming (Puzzle Games),Yes,MCYS puzzle game license,49,No violent or gambling content
+Cybersecurity (Identity Management),Yes,Q-CERT identity license,49,Approval for sensitive sectors
+AI & Data Science (Sentiment Analysis),No,,100,Data privacy compliance mandatory
+Robotics (Cleaning Robots),No,,100,Import and safety certifications needed
+Manufacturing & Industry 4.0 (Additive Manufacturing),Yes,MoCI additive manufacturing license,100,Environmental permits required
+Energy & Utilities (Energy Trading),Yes,Kahramaa trading license,0,State-led joint ventures
+Transportation & Mobility (Logistics Drones),Yes,MoTC drone logistics license,49,Local operator requirements
+Food & Beverage (Dessert Shops),Yes,MoPH dessert license,49,Halal compliance mandatory
+Retail (Sporting Goods),Yes,MoCI sports retail license,49,Local distributor required
+Travel & Hospitality (Eco-Tourism),Yes,QTA eco-tourism license,49,Local sponsorship needed
+Logistics & Supply Chain (Freight Forwarding),Yes,QFZA forwarding license,49,Qatari agent for customs
+Biotech & Pharma (Biosimilars),Yes,MOPH biosimilar license,49,Local approval mandatory
+Consumer Electronics (Smart Watches),Yes,CRA smart watch approval,49,Import certification required
+Social Impact / Non-Profit (Literacy Programs),Yes,MoCI literacy charity license,0,Government oversight mandatory
+Other (Holographic Displays),Depends,MoCI holographic license,49,General commercial compliance
